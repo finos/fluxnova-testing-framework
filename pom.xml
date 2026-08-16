@@ -28,7 +28,7 @@
     <version.gmavenplus-plugin>3.0.2</version.gmavenplus-plugin>
     <version.assertj>3.27.6</version.assertj>
     <version.junit-platform-launcher>1.11.3</version.junit-platform-launcher>
-    <version.jakarta.inject>2.0.1</version.jakarta.inject>
+    <version.jakarta.inject>2.0.1.MR</version.jakarta.inject>
     <version.kotlin-jvm-logging>7.0.14</version.kotlin-jvm-logging>
     <version.gson>2.13.2</version.gson>
     <version.kotlin-maven-plugin>2.2.21</version.kotlin-maven-plugin>
