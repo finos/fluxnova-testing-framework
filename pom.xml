@@ -64,7 +64,7 @@
     <version.mockito-kotlin>6.1.0</version.mockito-kotlin>
     <skipITs>false</skipITs>
     <version.junit-jupiter>5.11.3</version.junit-jupiter>
-    <version.fluxnova>2.0.1</version.fluxnova>
+    <version.fluxnova>2.0.4</version.fluxnova>
     <version.jakarta.el>4.0.2</version.jakarta.el>
     <version.sonar.plugin>5.5.0.6356</version.sonar.plugin>
   </properties>
