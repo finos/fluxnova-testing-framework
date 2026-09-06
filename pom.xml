@@ -56,7 +56,7 @@
     <version.h2>2.3.232</version.h2>
     <version.jakarta.validation-api>3.1.1</version.jakarta.validation-api>
     <version.kotlin-stdlib>2.2.21</version.kotlin-stdlib>
-    <version.maven-surefire-plugin>3.5.4</version.maven-surefire-plugin>
+    <version.maven-surefire-plugin>3.6.0</version.maven-surefire-plugin>
     <maven.compiler.target>${java.version}</maven.compiler.target>
     <version.jakarta.annotation-api>3.0.0</version.jakarta.annotation-api>
     <version.slf4j>2.0.17</version.slf4j>
