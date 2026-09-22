@@ -1295,9 +1295,9 @@ callsites@^3.0.0:
   integrity sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==
 
 camunda-bpmn-moddle@^7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/camunda-bpmn-moddle/-/camunda-bpmn-moddle-7.0.1.tgz#07a2ae8278996e0704fd1277c97548218f64c1bd"
-  integrity sha512-Br8Diu6roMpziHdpl66Dhnm0DTnCFMrSD9zwLV08LpD52QA0UsXxU87XfHf08HjuB7ly0Hd1bvajZRpf9hbmYQ==
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/camunda-bpmn-moddle/-/camunda-bpmn-moddle-7.0.2.tgz#fed006c422d97733139f10d8b35e98eb1046dc56"
+  integrity sha512-I8Hs3bXBOOyBkhjAdaxct9ppbX/uYcLwgvUljgNumXtIzBSAP1gWy/MlJOE6WYqVZO9eLw6+0w42W4pYIMlsCg==
 
 caniuse-lite@^1.0.30001702, caniuse-lite@^1.0.30001726:
   version "1.0.30001731"
