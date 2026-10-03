@@ -23,7 +23,7 @@
         <maven.version>3.8.2</maven.version>
         <maven-plugin-tools.version>3.13.1</maven-plugin-tools.version>
         <maven-reporting.version>3.1.1</maven-reporting.version>
-        <lombok.version>1.18.36</lombok.version>
+        <lombok.version>1.18.48</lombok.version>
     </properties>
 
     <dependencyManagement>
