@@ -36,7 +36,7 @@
   <properties>
     <maven.compiler.release>${java.version}</maven.compiler.release>
     <version.gmavenplus-plugin>3.0.2</version.gmavenplus-plugin>
-    <version.assertj>3.27.6</version.assertj>
+    <version.assertj>3.27.7</version.assertj>
     <version.jakarta.inject>2.0.1</version.jakarta.inject>
     <version.kotlin-jvm-logging>7.0.14</version.kotlin-jvm-logging>
     <version.gson>2.13.2</version.gson>
