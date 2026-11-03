@@ -21,16 +21,16 @@ concurrency:
 
 permissions:
   contents: read
-  packages: write
-  actions: read
-  pull-requests: write
-  attestations: write
-  id-token: write
 
 jobs:
   build:
     name: Build & Test
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+      attestations: write
+      id-token: write
     outputs:
       image_version: ${{ steps.version.outputs.image_version }}
     steps:
