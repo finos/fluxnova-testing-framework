@@ -8,3 +8,19 @@ This repository is distributed under the license described in the LICENSE file.
 This repository includes files that were copied or adapted from third-party works originally distributed under permissive
 open source licenses. Original copyright, attribution, and license notices for copied or adapted files are retained in
 the relevant source files.
+
+========================================================================
+Third-Party Dependencies
+========================================================================
+
+This project includes software developed by Oracle and/or its affiliates:
+
+  - GraalVM JavaScript ScriptEngine (org.graalvm.js:js-scriptengine)
+    Copyright (c) 2019, Oracle and/or its affiliates.
+    Licensed under the Universal Permissive License (UPL), Version 1.0
+    https://oss.oracle.com/licenses/upl/
+
+  - Jakarta XML Binding API (jakarta.xml.bind:jakarta.xml.bind-api)
+    Copyright (c) 2017, 2018 Oracle and/or its affiliates. All rights reserved.
+    Licensed under the Eclipse Distribution License (EDL), Version 1.0
+    https://www.eclipse.org/org/documents/edl-v10.php
